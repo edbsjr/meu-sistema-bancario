@@ -33,7 +33,7 @@ O banco de dados é composto pelas seguintes **tabelas principais**, projetadas 
 
 ---
 
-## 🖼️ Diagrama (Modelo Lógico)
+## 🖼️ Diagrama (Modelo Lógico) - EM BREVE
 
 > **Visualização simplificada da estrutura relacional entre tabelas**
 
